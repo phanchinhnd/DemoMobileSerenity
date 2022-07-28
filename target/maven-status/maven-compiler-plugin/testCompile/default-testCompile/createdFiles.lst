@@ -1,0 +1,5 @@
+core\AppiumBase.class
+steps\MyStepdefs.class
+steps\ServiceHooks.class
+pages\HomePage.class
+steps\Runner.class
